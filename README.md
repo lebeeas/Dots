@@ -98,7 +98,7 @@ Design a covering plate to hide the magnets for a cleaner look.
 > I’ve been using this version daily for two months without issues. I’ll update this write-up each month if the design changes or any problems arise.
 
 ## Open Source & License
-This project is MIT-licensed. All 3D files (.STL), drawings, and instructions are free on this GitHub (no account needed).
+This project is released under a Creative Commons license. All 3D files (.STL), drawings, and instructions are free on this GitHub (no account needed).
 
 - Riccardo Biasolo
 
