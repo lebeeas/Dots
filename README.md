@@ -102,4 +102,5 @@ This project is MIT-licensed. All 3D files (.STL), drawings, and instructions ar
 
 - Riccardo Biasolo
 
-![legacy](https://github.com/user-attachments/assets/f9ef754f-c41b-4fee-b287-f98e7763eba1)
+![legacy](https://github.com/user-attachments/assets/9b17e0d5-bafa-4a3f-93d7-0dc3e7425bf6)
+> Previous iterations. Some worked better than others...
