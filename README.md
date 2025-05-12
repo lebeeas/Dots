@@ -83,6 +83,8 @@ Remove both halves and clean off supports. You’ll find them in two spots:
 
 Repeat these steps for the other device that will go on the other shoe.
 
+![untitled6](https://github.com/user-attachments/assets/2df86a35-dc05-476e-9364-cf50544b1cec)
+
 ## A Few Tips
 Don’t overtighten the screw. The nut simply keeps it from backing out, and once it’s flush with the plastic you’re all set.
 Always let the halves meet on their flat faces so the magnets aren’t under constant pull, which could weaken their hold over time.
@@ -100,4 +102,4 @@ This project is MIT-licensed. All 3D files (.STL), drawings, and instructions ar
 
 - Riccardo Biasolo
 
-![untitled6](https://github.com/user-attachments/assets/2df86a35-dc05-476e-9364-cf50544b1cec)
+![legacy](https://github.com/user-attachments/assets/f9ef754f-c41b-4fee-b287-f98e7763eba1)
