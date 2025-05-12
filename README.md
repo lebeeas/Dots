@@ -29,7 +29,7 @@ Both halves were printed in PLA (polylactic acid), a plastic made mostly from th
 
 **4 x Magnets**: 8.0 × 3.0 × 2.0 mm
 
-**1 x Screw**: I didn’t understand how screw names work. This is the one I used.
+**1 x Screw**: I didn’t understand how screw names work. This is the one I used:
 
 > [!IMPORTANT]
 > The important thing is that the screw length equals the assembled device height (8.5 mm).
