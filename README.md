@@ -1,5 +1,4 @@
-# Dots
-Devices for One-handed Tying of Shoelaces
+# Dots: Devices for One-handed Tying of Shoelaces
 ![untitled4](https://github.com/user-attachments/assets/f37ef189-ecf9-42aa-bf06-222ad6b3be60)
 
 ![untitled6](https://github.com/user-attachments/assets/47780424-b322-437d-91f0-92b55618818d)
