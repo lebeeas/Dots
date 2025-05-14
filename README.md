@@ -98,7 +98,7 @@ Always let **the halves meet on their flat faces** so the magnets aren’t under
 
 ## Future Improvements
 
-Add a small tab on each half to make unfastening easier—right now you have to grip the side of one piece, which can be tough for some.
+Add a small tab on each half to make unfastening easier. Right now you have to grip the side of one piece, which can be tough for some.
 
 Design a covering plate to hide the magnets for a cleaner look.
 
