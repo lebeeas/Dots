@@ -1,6 +1,6 @@
 # Dots: Devices for One-handed Tying of Shoelaces
 
-The **Dots**, short for **Devices for One-handed Tying of Shoelaces**__, are a pair of small, **3D-printed** gadgets you clip onto your shoelaces so you can fasten and unfasten them magnetically, without tying a traditional knot. 
+The **Dots**, short for _**Devices for One-handed Tying of Shoelaces**_, are a pair of small, **3D-printed** gadgets you clip onto your shoelaces so you can fasten and unfasten them magnetically, without tying a traditional knot. 
 
 They were created mainly to **help people with limited hand or arm mobility**, seniors who lack finger strength or dexterity, or anyone who finds it hard to bend over long enough to tie shoes (_and anyone looking for a quicker, fuss-free alternative to regular laces_).
 
@@ -80,6 +80,8 @@ Remove both halves and clean off supports. You’ll find them in two spots:
 - Tuck any excess lace by either:
   - Tying a small hidden knot near the exit hole and trimming the rest, or
   - Weaving the leftover length through the side eyelets like a stitch for a tidy look.
+
+![instructions](https://github.com/user-attachments/assets/3af37dc1-2cfc-49c3-a2de-e6301a3d9233)
 
 > [!WARNING]
 > If you fit into one of the target groups, this last step might be tricky or impossible without help. I’m working on it. Sorry.
