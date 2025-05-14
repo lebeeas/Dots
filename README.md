@@ -13,7 +13,7 @@ Each device consists of two main pieces: a “top” half and a “bottom” hal
 ![SnapGif](https://github.com/user-attachments/assets/72428918-d4f3-488e-abad-1a47a7b3fbea)
 
 ## Materials & Dimensions
-Both halves were printed in PLA (_polylactic acid_), a plastic made mostly from the starchy sugars in plant seeds (think corn).
+Both halves were printed in PLA (_polylactic acid_), a plastic material.
 
 **Top half**
 
