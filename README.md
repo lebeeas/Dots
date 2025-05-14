@@ -44,7 +44,7 @@ Both halves were printed in PLA (_polylactic acid_), a plastic material.
 ![untitled7_modif](https://github.com/user-attachments/assets/6f3cf563-c6fb-4d24-a464-8c6cf99334b8)
 
 ## Print Settings
-- **Supports**: Yes (placed so magnet slots face up)
+- **Supports**: Yes (with the pieces placed so magnet slots face up)
 - **Layer** height: 0.2 mm
 - **Infill**: 40%, Gyroid pattern
 
@@ -65,7 +65,8 @@ Remove both halves and clean off supports. You’ll find them in two spots:
 
 ### Put it together →
 
-- Drop magnets into their slots. **Orientation doesn’t matter on the first half**; on the second, make sure the “flat” sides meet so the hidden-magnet faces nest together. A dab of **glue** keeps them from shifting.
+- The magnets should be inserted into their designated slots. For the first half, there’s **no need to check their orientation**, but for the second half, you’ll need to make sure the two parts, and therefore the magnets, connect via the “flat” side, meaning the side where the magnets aren’t visible.
+Also, the two halves must align with the lace holes facing opposite sides. A dab of **glue** keeps them from shifting.
 - Place the nut in the hex slot, insert the washer and the screw from the opposite side, and tighten (no need to crank it down hard).
 - You should now have these two finished halves:
 
@@ -76,7 +77,7 @@ Remove both halves and clean off supports. You’ll find them in two spots:
 - Slip on the shoe and hold the device with its halves apart.
 - Keep the laces threaded as usual but loose.
 - Feed each lace end through the entry hole in its half.
-- Snap the halves together, then pull the lace ends until the shoe feels snug—just like tying a knot.
+- Snap the halves together, then pull the lace ends until the shoe feels snug (just like the first step of tying a knot).
 - Tuck any excess lace by either:
   - Tying a small hidden knot near the exit hole and trimming the rest, or
   - Weaving the leftover length through the side eyelets like a stitch for a tidy look.
