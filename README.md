@@ -103,7 +103,7 @@ Add a small tab on each half to make unfastening easier. Right now you have to g
 Design a covering plate to hide the magnets for a cleaner look.
 
 > [!NOTE]
-> I’ve been using this version daily for two months without issues. I’ll update this write-up each month if the design changes or any problems arise.
+> I’ve been using this version **daily since March 2025** without issues. I’ll update this write-up each month if the design changes or any problems arise.
 
 ## Open Source & License
 This project is released under an MIT license.
