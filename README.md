@@ -114,4 +114,7 @@ All 3D files (.STL), drawings, and instructions are free on this GitHub (no acco
 ![legacy](https://github.com/user-attachments/assets/9b17e0d5-bafa-4a3f-93d7-0dc3e7425bf6)
 > Previous iterations. Some worked better than others...
 
+If you come across any errors, inaccuracies, or typos, feel free to reach out!
+Send me an email at pescettistudio@gmail.com.
+
 -- Riccardo Biasolo
